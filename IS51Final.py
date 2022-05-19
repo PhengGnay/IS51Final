@@ -13,3 +13,21 @@ Function 2 named percentage of grades above average will calculate
 the percentage of grades that are above the average grade.
 """
 
+
+"""
+infile = open #reference to the Final.txt
+num_grades = [line.rstrip()] # takes away remaining spaces on the right side
+close the infile
+
+set for loop with list and use lens to count the number of items in list
+set average = sum with num_grades divided by len num_grades
+counter = 0
+
+for num_grade add 1 to counter every count
+
+initialize main function
+print total number of grades
+print average grade
+print Percentage of grades above the average grade
+
+"""
