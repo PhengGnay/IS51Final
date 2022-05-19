@@ -25,9 +25,11 @@ counter = 0
 
 for num_grade add 1 to counter every count
 
+reference num * 100 to set percentage divided by len num_grades
+
 initialize main function
 print total number of grades
 print average grade
-print Percentage of grades above the average grade
+print Percentage of grades above the average grade 
 
 """
